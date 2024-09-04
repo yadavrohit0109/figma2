@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+}
+ul{
+    background-color: red;
+}
+li{
+    background-color: blueviolet;
+}
+@media screen and (max-width:500px) {
+    body{
+        background-color: red;
+    }
+    
+}
